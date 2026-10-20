@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.sqlite
+.ipynb_checkpoints/
+.DS_Store
+# raw downloads are re-created by src/01_download_data.py
+data/raw/*.csv

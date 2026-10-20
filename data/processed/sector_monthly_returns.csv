@@ -1,0 +1,977 @@
+month,sector_name,monthly_return
+2021-10,Automobile,-0.059959
+2021-11,Automobile,-0.067812
+2021-12,Automobile,0.034768
+2022-01,Automobile,0.086528
+2022-02,Automobile,-0.056678
+2022-03,Automobile,-0.037335
+2022-04,Automobile,0.059803
+2022-05,Automobile,0.062998
+2022-06,Automobile,0.005311
+2022-07,Automobile,0.070138
+2022-08,Automobile,0.060316
+2022-09,Automobile,-0.0597
+2022-10,Automobile,0.051247
+2022-11,Automobile,-0.006272
+2022-12,Automobile,-0.062015
+2023-01,Automobile,0.067883
+2023-02,Automobile,-0.061103
+2023-03,Automobile,-0.024512
+2023-04,Automobile,0.099615
+2023-05,Automobile,0.0797
+2023-06,Automobile,0.060929
+2023-07,Automobile,0.037105
+2023-08,Automobile,-0.02108
+2023-09,Automobile,0.046131
+2023-10,Automobile,-0.01102
+2023-11,Automobile,0.139248
+2023-12,Automobile,0.065032
+2024-01,Automobile,0.039334
+2024-02,Automobile,0.058506
+2024-03,Automobile,0.073703
+2024-04,Automobile,0.038205
+2024-05,Automobile,0.035399
+2024-06,Automobile,0.054214
+2024-07,Automobile,0.057016
+2024-08,Automobile,0.003153
+2024-09,Automobile,0.038333
+2024-10,Automobile,-0.129494
+2024-11,Automobile,-0.018485
+2024-12,Automobile,-0.037016
+2025-01,Automobile,0.037476
+2025-02,Automobile,-0.101889
+2025-03,Automobile,0.035288
+2025-04,Automobile,0.034503
+2025-05,Automobile,0.048751
+2025-06,Automobile,0.013704
+2025-07,Automobile,-0.009139
+2025-08,Automobile,0.097254
+2025-09,Automobile,0.067221
+2025-10,Automobile,0.010958
+2025-11,Automobile,0.010146
+2025-12,Automobile,0.011142
+2026-01,Automobile,-0.047859
+2026-02,Automobile,0.052768
+2026-03,Automobile,-0.156796
+2026-04,Automobile,0.08504
+2026-05,Automobile,0.025225
+2026-06,Automobile,-0.020412
+2026-07,Automobile,0.088092
+2026-08,Automobile,-0.014132
+2026-09,Automobile,-0.089782
+2026-10,Automobile,-0.01051
+2021-10,Banking,-0.008855
+2021-11,Banking,-0.079587
+2021-12,Banking,-0.004875
+2022-01,Banking,0.081984
+2022-02,Banking,-0.04943
+2022-03,Banking,0.002979
+2022-04,Banking,-0.009955
+2022-05,Banking,-0.008173
+2022-06,Banking,-0.053168
+2022-07,Banking,0.117492
+2022-08,Banking,0.045844
+2022-09,Banking,-0.029269
+2022-10,Banking,0.093162
+2022-11,Banking,0.039132
+2022-12,Banking,-0.012284
+2023-01,Banking,-0.059423
+2023-02,Banking,-0.012285
+2023-03,Banking,0.011239
+2023-04,Banking,0.063649
+2023-05,Banking,0.025257
+2023-06,Banking,0.003933
+2023-07,Banking,0.018303
+2023-08,Banking,-0.041505
+2023-09,Banking,0.01618
+2023-10,Banking,-0.034903
+2023-11,Banking,0.035642
+2023-12,Banking,0.082509
+2024-01,Banking,-0.038426
+2024-02,Banking,0.014764
+2024-03,Banking,0.021654
+2024-04,Banking,0.04476
+2024-05,Banking,0.010528
+2024-06,Banking,0.071948
+2024-07,Banking,-0.014143
+2024-08,Banking,-0.007749
+2024-09,Banking,0.030022
+2024-10,Banking,-0.012788
+2024-11,Banking,0.013173
+2024-12,Banking,-0.026098
+2025-01,Banking,-0.019941
+2025-02,Banking,-0.020141
+2025-03,Banking,0.104651
+2025-04,Banking,0.045852
+2025-05,Banking,0.003894
+2025-06,Banking,0.020232
+2025-07,Banking,-0.037597
+2025-08,Banking,-0.025984
+2025-09,Banking,0.029394
+2025-10,Banking,0.051353
+2025-11,Banking,0.029536
+2025-12,Banking,-0.003265
+2026-01,Banking,0.008808
+2026-02,Banking,0.023259
+2026-03,Banking,-0.158924
+2026-04,Banking,0.074822
+2026-05,Banking,-0.02064
+2026-06,Banking,0.06335
+2026-07,Banking,-0.021316
+2026-08,Banking,0.026548
+2026-09,Banking,-0.04973
+2026-10,Banking,0.04295
+2021-10,Cement & Materials,0.006681
+2021-11,Cement & Materials,-0.02998
+2021-12,Cement & Materials,-0.001344
+2022-01,Cement & Materials,0.00685
+2022-02,Cement & Materials,-0.081793
+2022-03,Cement & Materials,0.023787
+2022-04,Cement & Materials,0.011142
+2022-05,Cement & Materials,-0.119563
+2022-06,Cement & Materials,-0.076501
+2022-07,Cement & Materials,0.179199
+2022-08,Cement & Materials,0.050406
+2022-09,Cement & Materials,-0.032779
+2022-10,Cement & Materials,0.050975
+2022-11,Cement & Materials,0.038112
+2022-12,Cement & Materials,-0.018452
+2023-01,Cement & Materials,-0.030176
+2023-02,Cement & Materials,0.008894
+2023-03,Cement & Materials,0.042127
+2023-04,Cement & Materials,0.022179
+2023-05,Cement & Materials,0.020286
+2023-06,Cement & Materials,0.031683
+2023-07,Cement & Materials,0.036786
+2023-08,Cement & Materials,-0.014184
+2023-09,Cement & Materials,0.039229
+2023-10,Cement & Materials,-0.004293
+2023-11,Cement & Materials,0.066239
+2023-12,Cement & Materials,0.114726
+2024-01,Cement & Materials,-0.004403
+2024-02,Cement & Materials,-0.009101
+2024-03,Cement & Materials,0.014544
+2024-04,Cement & Materials,0.039131
+2024-05,Cement & Materials,-0.022221
+2024-06,Cement & Materials,0.165328
+2024-07,Cement & Materials,0.032781
+2024-08,Cement & Materials,-0.036448
+2024-09,Cement & Materials,0.040483
+2024-10,Cement & Materials,-0.048778
+2024-11,Cement & Materials,-0.010383
+2024-12,Cement & Materials,-0.022025
+2025-01,Cement & Materials,0.016783
+2025-02,Cement & Materials,-0.099147
+2025-03,Cement & Materials,0.134371
+2025-04,Cement & Materials,0.030295
+2025-05,Cement & Materials,-0.053399
+2025-06,Cement & Materials,0.098261
+2025-07,Cement & Materials,-0.007728
+2025-08,Cement & Materials,0.023246
+2025-09,Cement & Materials,-0.019802
+2025-10,Cement & Materials,0.012841
+2025-11,Cement & Materials,-0.040129
+2025-12,Cement & Materials,0.024381
+2026-01,Cement & Materials,0.036267
+2026-02,Cement & Materials,-0.003957
+2026-03,Cement & Materials,-0.119609
+2026-04,Cement & Materials,0.085764
+2026-05,Cement & Materials,0.052915
+2026-06,Cement & Materials,-0.013364
+2026-07,Cement & Materials,0.039442
+2026-08,Cement & Materials,0.025194
+2026-09,Cement & Materials,-0.067428
+2026-10,Cement & Materials,-0.025527
+2021-10,Conglomerate,-0.118787
+2021-11,Conglomerate,0.16806
+2021-12,Conglomerate,0.028024
+2022-01,Conglomerate,0.003217
+2022-02,Conglomerate,-0.041109
+2022-03,Conglomerate,0.225182
+2022-04,Conglomerate,0.157464
+2022-05,Conglomerate,-0.070519
+2022-06,Conglomerate,0.010773
+2022-07,Conglomerate,0.173152
+2022-08,Conglomerate,0.243325
+2022-09,Conglomerate,0.081832
+2022-10,Conglomerate,-0.031339
+2022-11,Conglomerate,0.170413
+2022-12,Conglomerate,-0.015199
+2023-01,Conglomerate,-0.22923
+2023-02,Conglomerate,-0.541393
+2023-03,Conglomerate,0.283462
+2023-04,Conglomerate,0.099689
+2023-05,Conglomerate,0.29528
+2023-06,Conglomerate,-0.042232
+2023-07,Conglomerate,0.044118
+2023-08,Conglomerate,-0.029271
+2023-09,Conglomerate,-0.002212
+2023-10,Conglomerate,-0.049401
+2023-11,Conglomerate,0.027847
+2023-12,Conglomerate,0.207924
+2024-01,Conglomerate,0.102862
+2024-02,Conglomerate,0.04564
+2024-03,Conglomerate,-0.026877
+2024-04,Conglomerate,-0.04454
+2024-05,Conglomerate,0.116755
+2024-06,Conglomerate,-0.068289
+2024-07,Conglomerate,-0.002439
+2024-08,Conglomerate,-0.047343
+2024-09,Conglomerate,0.038584
+2024-10,Conglomerate,-0.060143
+2024-11,Conglomerate,-0.164255
+2024-12,Conglomerate,0.026592
+2025-01,Conglomerate,-0.095248
+2025-02,Conglomerate,-0.083836
+2025-03,Conglomerate,0.104866
+2025-04,Conglomerate,-0.006261
+2025-05,Conglomerate,0.09499
+2025-06,Conglomerate,0.040001
+2025-07,Conglomerate,-0.072039
+2025-08,Conglomerate,-0.076521
+2025-09,Conglomerate,0.116363
+2025-10,Conglomerate,-0.009937
+2025-11,Conglomerate,-0.080935
+2025-12,Conglomerate,-0.017762
+2026-01,Conglomerate,-0.097915
+2026-02,Conglomerate,0.069986
+2026-03,Conglomerate,-0.186419
+2026-04,Conglomerate,0.369343
+2026-05,Conglomerate,0.219648
+2026-06,Conglomerate,0.034029
+2026-07,Conglomerate,-0.008729
+2026-08,Conglomerate,-0.049975
+2026-09,Conglomerate,0.015494
+2026-10,Conglomerate,-0.072811
+2021-10,Consumer Goods,-0.060203
+2021-11,Consumer Goods,0.006932
+2021-12,Consumer Goods,0.069965
+2022-01,Consumer Goods,-0.065536
+2022-02,Consumer Goods,0.042643
+2022-03,Consumer Goods,-0.01556
+2022-04,Consumer Goods,0.010167
+2022-05,Consumer Goods,-0.106064
+2022-06,Consumer Goods,-0.087809
+2022-07,Consumer Goods,0.227261
+2022-08,Consumer Goods,0.062041
+2022-09,Consumer Goods,-0.005886
+2022-10,Consumer Goods,-0.00618
+2022-11,Consumer Goods,-0.008984
+2022-12,Consumer Goods,-0.023752
+2023-01,Consumer Goods,-0.100774
+2023-02,Consumer Goods,0.018548
+2023-03,Consumer Goods,0.0176
+2023-04,Consumer Goods,0.051029
+2023-05,Consumer Goods,0.084743
+2023-06,Consumer Goods,0.069976
+2023-07,Consumer Goods,-0.002427
+2023-08,Consumer Goods,-0.001261
+2023-09,Consumer Goods,-0.007279
+2023-10,Consumer Goods,-0.019961
+2023-11,Consumer Goods,0.068844
+2023-12,Consumer Goods,0.071838
+2024-01,Consumer Goods,-0.064365
+2024-02,Consumer Goods,-0.032687
+2024-03,Consumer Goods,0.029165
+2024-04,Consumer Goods,-0.023112
+2024-05,Consumer Goods,-0.047034
+2024-06,Consumer Goods,0.038269
+2024-07,Consumer Goods,0.037912
+2024-08,Consumer Goods,0.022548
+2024-09,Consumer Goods,0.069126
+2024-10,Consumer Goods,-0.131508
+2024-11,Consumer Goods,-0.081198
+2024-12,Consumer Goods,-0.039754
+2025-01,Consumer Goods,0.040826
+2025-02,Consumer Goods,-0.085545
+2025-03,Consumer Goods,0.034582
+2025-04,Consumer Goods,0.069856
+2025-05,Consumer Goods,-0.009464
+2025-06,Consumer Goods,0.042605
+2025-07,Consumer Goods,-0.033787
+2025-08,Consumer Goods,0.068039
+2025-09,Consumer Goods,-0.069146
+2025-10,Consumer Goods,0.091128
+2025-11,Consumer Goods,0.094676
+2025-12,Consumer Goods,0.000538
+2026-01,Consumer Goods,-0.071223
+2026-02,Consumer Goods,0.032123
+2026-03,Consumer Goods,-0.08746
+2026-04,Consumer Goods,0.12009
+2026-05,Consumer Goods,0.008774
+2026-06,Consumer Goods,0.037918
+2026-07,Consumer Goods,0.076451
+2026-08,Consumer Goods,0.005864
+2026-09,Consumer Goods,-0.097326
+2026-10,Consumer Goods,-0.029844
+2021-10,Consumer Services,-0.054558
+2021-11,Consumer Services,0.012105
+2021-12,Consumer Services,0.002224
+2022-01,Consumer Services,-0.156362
+2022-02,Consumer Services,-0.008864
+2022-03,Consumer Services,0.088375
+2022-04,Consumer Services,-0.080109
+2022-05,Consumer Services,-0.010385
+2022-06,Consumer Services,-0.151349
+2022-07,Consumer Services,0.067342
+2022-08,Consumer Services,0.148287
+2022-09,Consumer Services,0.002101
+2022-10,Consumer Services,0.017043
+2022-11,Consumer Services,0.031236
+2022-12,Consumer Services,-0.0453
+2023-01,Consumer Services,-0.074875
+2023-02,Consumer Services,0.005383
+2023-03,Consumer Services,0.019631
+2023-04,Consumer Services,0.104026
+2023-05,Consumer Services,0.127727
+2023-06,Consumer Services,0.110479
+2023-07,Consumer Services,0.034856
+2023-08,Consumer Services,0.086645
+2023-09,Consumer Services,0.011962
+2023-10,Consumer Services,0.035763
+2023-11,Consumer Services,0.175178
+2023-12,Consumer Services,0.079842
+2024-01,Consumer Services,0.046292
+2024-02,Consumer Services,0.173235
+2024-03,Consumer Services,0.08236
+2024-04,Consumer Services,0.101409
+2024-05,Consumer Services,0.005202
+2024-06,Consumer Services,0.110086
+2024-07,Consumer Services,0.090325
+2024-08,Consumer Services,0.13701
+2024-09,Consumer Services,0.047512
+2024-10,Consumer Services,-0.107565
+2024-11,Consumer Services,0.062549
+2024-12,Consumer Services,0.029116
+2025-01,Consumer Services,-0.150418
+2025-02,Consumer Services,-0.038718
+2025-03,Consumer Services,0.046794
+2025-04,Consumer Services,0.051936
+2025-05,Consumer Services,0.04481
+2025-06,Consumer Services,0.112206
+2025-07,Consumer Services,-0.019549
+2025-08,Consumer Services,0.011263
+2025-09,Consumer Services,-0.031129
+2025-10,Consumer Services,-0.004257
+2025-11,Consumer Services,-0.034224
+2025-12,Consumer Services,-0.070357
+2026-01,Consumer Services,-0.072188
+2026-02,Consumer Services,-0.007001
+2026-03,Consumer Services,-0.136003
+2026-04,Consumer Services,0.140923
+2026-05,Consumer Services,0.020816
+2026-06,Consumer Services,0.147613
+2026-07,Consumer Services,0.0069
+2026-08,Consumer Services,0.017953
+2026-09,Consumer Services,-0.053724
+2026-10,Consumer Services,0.027098
+2021-10,FMCG,-0.087107
+2021-11,FMCG,-0.010574
+2021-12,FMCG,0.01183
+2022-01,FMCG,-0.028862
+2022-02,FMCG,-0.029215
+2022-03,FMCG,0.027642
+2022-04,FMCG,0.062561
+2022-05,FMCG,0.029375
+2022-06,FMCG,-0.014575
+2022-07,FMCG,0.133107
+2022-08,FMCG,0.032004
+2022-09,FMCG,0.003946
+2022-10,FMCG,0.021281
+2022-11,FMCG,0.008498
+2022-12,FMCG,-0.032802
+2023-01,FMCG,0.012847
+2023-02,FMCG,0.007
+2023-03,FMCG,0.038416
+2023-04,FMCG,0.057893
+2023-05,FMCG,0.050571
+2023-06,FMCG,0.027508
+2023-07,FMCG,-0.009012
+2023-08,FMCG,-0.03412
+2023-09,FMCG,0.006374
+2023-10,FMCG,0.015807
+2023-11,FMCG,0.018617
+2023-12,FMCG,0.068285
+2024-01,FMCG,-0.055862
+2024-02,FMCG,-0.018696
+2024-03,FMCG,0.000701
+2024-04,FMCG,-0.013453
+2024-05,FMCG,-0.012835
+2024-06,FMCG,0.057211
+2024-07,FMCG,0.073153
+2024-08,FMCG,0.019619
+2024-09,FMCG,0.058026
+2024-10,FMCG,-0.120918
+2024-11,FMCG,-0.012605
+2024-12,FMCG,-0.02767
+2025-01,FMCG,0.028784
+2025-02,FMCG,-0.087929
+2025-03,FMCG,0.032748
+2025-04,FMCG,0.046081
+2025-05,FMCG,0.002324
+2025-06,FMCG,0.004147
+2025-07,FMCG,-0.000685
+2025-08,FMCG,0.02656
+2025-09,FMCG,-0.025658
+2025-10,FMCG,0.042798
+2025-11,FMCG,-0.012775
+2025-12,FMCG,-0.01427
+2026-01,FMCG,-0.051839
+2026-02,FMCG,-0.014786
+2026-03,FMCG,-0.097879
+2026-04,FMCG,0.142845
+2026-05,FMCG,-0.043858
+2026-06,FMCG,-0.005275
+2026-07,FMCG,0.017626
+2026-08,FMCG,-0.054267
+2026-09,FMCG,-0.048189
+2026-10,FMCG,-0.006097
+2021-10,Financial Services,-0.029201
+2021-11,Financial Services,-0.01638
+2021-12,Financial Services,-0.040443
+2022-01,Financial Services,-0.00694
+2022-02,Financial Services,-0.073975
+2022-03,Financial Services,0.044176
+2022-04,Financial Services,-0.017072
+2022-05,Financial Services,-0.03095
+2022-06,Financial Services,-0.068647
+2022-07,Financial Services,0.194782
+2022-08,Financial Services,0.037179
+2022-09,Financial Services,-0.05155
+2022-10,Financial Services,0.00831
+2022-11,Financial Services,0.021482
+2022-12,Financial Services,-0.02519
+2023-01,Financial Services,-0.056078
+2023-02,Financial Services,-0.054004
+2023-03,Financial Services,-0.016142
+2023-04,Financial Services,0.069937
+2023-05,Financial Services,0.087655
+2023-06,Financial Services,0.099943
+2023-07,Financial Services,0.02731
+2023-08,Financial Services,-0.025786
+2023-09,Financial Services,0.018846
+2023-10,Financial Services,-0.011842
+2023-11,Financial Services,0.051569
+2023-12,Financial Services,0.00261
+2024-01,Financial Services,0.003245
+2024-02,Financial Services,0.047462
+2024-03,Financial Services,0.051963
+2024-04,Financial Services,-0.005943
+2024-05,Financial Services,-0.056532
+2024-06,Financial Services,0.090688
+2024-07,Financial Services,0.047443
+2024-08,Financial Services,0.050165
+2024-09,Financial Services,0.058669
+2024-10,Financial Services,-0.089248
+2024-11,Financial Services,-0.059242
+2024-12,Financial Services,-0.032783
+2025-01,Financial Services,0.015811
+2025-02,Financial Services,0.009836
+2025-03,Financial Services,0.083569
+2025-04,Financial Services,0.039087
+2025-05,Financial Services,0.054177
+2025-06,Financial Services,0.058481
+2025-07,Financial Services,-0.045736
+2025-08,Financial Services,-0.024912
+2025-09,Financial Services,0.025677
+2025-10,Financial Services,0.066229
+2025-11,Financial Services,0.031946
+2025-12,Financial Services,0.010503
+2026-01,Financial Services,-0.043175
+2026-02,Financial Services,0.026374
+2026-03,Financial Services,-0.164315
+2026-04,Financial Services,0.072527
+2026-05,Financial Services,-0.001194
+2026-06,Financial Services,0.022362
+2026-07,Financial Services,0.06449
+2026-08,Financial Services,-0.026602
+2026-09,Financial Services,-0.085941
+2026-10,Financial Services,0.002664
+2021-10,Healthcare,-0.028386
+2021-11,Healthcare,0.240589
+2021-12,Healthcare,0.015882
+2022-01,Healthcare,-0.139119
+2022-02,Healthcare,0.049306
+2022-03,Healthcare,-0.064376
+2022-04,Healthcare,0.087615
+2022-05,Healthcare,-0.092723
+2022-06,Healthcare,-0.05328
+2022-07,Healthcare,0.074135
+2022-08,Healthcare,0.0415
+2022-09,Healthcare,0.034508
+2022-10,Healthcare,0.075663
+2022-11,Healthcare,0.017746
+2022-12,Healthcare,-0.037075
+2023-01,Healthcare,-0.021945
+2023-02,Healthcare,0.000243
+2023-03,Healthcare,0.007604
+2023-04,Healthcare,0.046076
+2023-05,Healthcare,0.107388
+2023-06,Healthcare,0.099115
+2023-07,Healthcare,0.004225
+2023-08,Healthcare,-0.037028
+2023-09,Healthcare,0.015556
+2023-10,Healthcare,-0.025135
+2023-11,Healthcare,0.128747
+2023-12,Healthcare,0.056989
+2024-01,Healthcare,0.128667
+2024-02,Healthcare,-0.009785
+2024-03,Healthcare,0.039903
+2024-04,Healthcare,-0.018438
+2024-05,Healthcare,-0.06162
+2024-06,Healthcare,0.153757
+2024-07,Healthcare,0.024633
+2024-08,Healthcare,-0.007662
+2024-09,Healthcare,0.091587
+2024-10,Healthcare,0.004205
+2024-11,Healthcare,-0.030909
+2024-12,Healthcare,0.110222
+2025-01,Healthcare,-0.061182
+2025-02,Healthcare,-0.092791
+2025-03,Healthcare,0.108649
+2025-04,Healthcare,0.029023
+2025-05,Healthcare,0.005848
+2025-06,Healthcare,0.093392
+2025-07,Healthcare,0.006593
+2025-08,Healthcare,-0.02859
+2025-09,Healthcare,-0.029932
+2025-10,Healthcare,0.033831
+2025-11,Healthcare,-0.015948
+2025-12,Healthcare,-0.070718
+2026-01,Healthcare,-0.048176
+2026-02,Healthcare,0.133771
+2026-03,Healthcare,-0.085423
+2026-04,Healthcare,0.030901
+2026-05,Healthcare,0.021317
+2026-06,Healthcare,0.115848
+2026-07,Healthcare,0.003205
+2026-08,Healthcare,-0.027895
+2026-09,Healthcare,-0.094724
+2026-10,Healthcare,-0.06209
+2021-10,IT,-0.055187
+2021-11,IT,0.020229
+2021-12,IT,0.121005
+2022-01,IT,-0.123577
+2022-02,IT,-0.021951
+2022-03,IT,0.065302
+2022-04,IT,-0.116962
+2022-05,IT,-0.046153
+2022-06,IT,-0.081671
+2022-07,IT,0.031323
+2022-08,IT,-0.014282
+2022-09,IT,-0.046551
+2022-10,IT,0.065508
+2022-11,IT,0.057108
+2022-12,IT,-0.055834
+2023-01,IT,0.035465
+2023-02,IT,-0.006098
+2023-03,IT,-0.023365
+2023-04,IT,-0.028773
+2023-05,IT,0.057812
+2023-06,IT,0.010743
+2023-07,IT,0.01148
+2023-08,IT,0.034972
+2023-09,IT,0.023471
+2023-10,IT,-0.033621
+2023-11,IT,0.06419
+2023-12,IT,0.085126
+2024-01,IT,0.048092
+2024-02,IT,0.034992
+2024-03,IT,-0.065118
+2024-04,IT,-0.040814
+2024-05,IT,-0.023749
+2024-06,IT,0.12351
+2024-07,IT,0.114761
+2024-08,IT,0.046579
+2024-09,IT,-0.020683
+2024-10,IT,-0.016138
+2024-11,IT,0.058728
+2024-12,IT,0.009879
+2025-01,IT,-0.005985
+2025-02,IT,-0.112463
+2025-03,IT,-0.02503
+2025-04,IT,-0.022396
+2025-05,IT,0.037065
+2025-06,IT,0.045386
+2025-07,IT,-0.097511
+2025-08,IT,-0.000214
+2025-09,IT,-0.044821
+2025-10,IT,0.052187
+2025-11,IT,0.047205
+2025-12,IT,0.032173
+2026-01,IT,0.015262
+2026-02,IT,-0.1833
+2026-03,IT,-0.045315
+2026-04,IT,0.007018
+2026-05,IT,-0.015903
+2026-06,IT,-0.105939
+2026-07,IT,0.173196
+2026-08,IT,-0.002934
+2026-09,IT,-0.107112
+2026-10,IT,0.170005
+2021-10,Infrastructure,-0.06824
+2021-11,Infrastructure,-0.008021
+2021-12,Infrastructure,0.058427
+2022-01,Infrastructure,-0.003565
+2022-02,Infrastructure,-0.015535
+2022-03,Infrastructure,0.025333
+2022-04,Infrastructure,0.064959
+2022-05,Infrastructure,-0.058762
+2022-06,Infrastructure,-0.050482
+2022-07,Infrastructure,0.165947
+2022-08,Infrastructure,0.097206
+2022-09,Infrastructure,-0.024088
+2022-10,Infrastructure,0.052419
+2022-11,Infrastructure,0.026772
+2022-12,Infrastructure,-0.037982
+2023-01,Infrastructure,-0.098124
+2023-02,Infrastructure,-0.003651
+2023-03,Infrastructure,0.046582
+2023-04,Infrastructure,0.076949
+2023-05,Infrastructure,0.03321
+2023-06,Infrastructure,0.081139
+2023-07,Infrastructure,0.061408
+2023-08,Infrastructure,0.022268
+2023-09,Infrastructure,0.067742
+2023-10,Infrastructure,-0.038339
+2023-11,Infrastructure,0.070299
+2023-12,Infrastructure,0.215302
+2024-01,Infrastructure,0.056578
+2024-02,Infrastructure,0.067016
+2024-03,Infrastructure,0.02857
+2024-04,Infrastructure,0.031474
+2024-05,Infrastructure,0.12189
+2024-06,Infrastructure,0.015994
+2024-07,Infrastructure,0.058238
+2024-08,Infrastructure,-0.044597
+2024-09,Infrastructure,-0.025425
+2024-10,Infrastructure,-0.020301
+2024-11,Infrastructure,-0.009926
+2024-12,Infrastructure,-0.01487
+2025-01,Infrastructure,-0.039805
+2025-02,Infrastructure,-0.099891
+2025-03,Infrastructure,0.146412
+2025-04,Infrastructure,0.009522
+2025-05,Infrastructure,0.16849
+2025-06,Infrastructure,0.040634
+2025-07,Infrastructure,-0.050995
+2025-08,Infrastructure,-0.028498
+2025-09,Infrastructure,0.060191
+2025-10,Infrastructure,0.063979
+2025-11,Infrastructure,0.006928
+2025-12,Infrastructure,-0.018783
+2026-01,Infrastructure,0.017017
+2026-02,Infrastructure,0.050443
+2026-03,Infrastructure,-0.136931
+2026-04,Infrastructure,0.160227
+2026-05,Infrastructure,0.021508
+2026-06,Infrastructure,0.009678
+2026-07,Infrastructure,-0.055747
+2026-08,Infrastructure,0.011529
+2026-09,Infrastructure,-0.004136
+2026-10,Infrastructure,-0.030131
+2021-10,Metals & Mining,-0.099666
+2021-11,Metals & Mining,-0.113918
+2021-12,Metals & Mining,0.071397
+2022-01,Metals & Mining,0.014672
+2022-02,Metals & Mining,0.097294
+2022-03,Metals & Mining,0.078657
+2022-04,Metals & Mining,-0.04764
+2022-05,Metals & Mining,-0.123998
+2022-06,Metals & Mining,-0.089345
+2022-07,Metals & Mining,0.189337
+2022-08,Metals & Mining,0.065313
+2022-09,Metals & Mining,-0.084564
+2022-10,Metals & Mining,0.071324
+2022-11,Metals & Mining,0.064931
+2022-12,Metals & Mining,0.030737
+2023-01,Metals & Mining,-0.00391
+2023-02,Metals & Mining,-0.091944
+2023-03,Metals & Mining,0.011556
+2023-04,Metals & Mining,0.063726
+2023-05,Metals & Mining,-0.023655
+2023-06,Metals & Mining,0.052506
+2023-07,Metals & Mining,0.058743
+2023-08,Metals & Mining,-0.006145
+2023-09,Metals & Mining,0.097499
+2023-10,Metals & Mining,-0.035485
+2023-11,Metals & Mining,0.107236
+2023-12,Metals & Mining,0.120827
+2024-01,Metals & Mining,-0.019213
+2024-02,Metals & Mining,-0.007299
+2024-03,Metals & Mining,0.062705
+2024-04,Metals & Mining,0.079881
+2024-05,Metals & Mining,0.041668
+2024-06,Metals & Mining,0.022659
+2024-07,Metals & Mining,0.004851
+2024-08,Metals & Mining,0.001453
+2024-09,Metals & Mining,0.061435
+2024-10,Metals & Mining,-0.096544
+2024-11,Metals & Mining,-0.027208
+2024-12,Metals & Mining,-0.067527
+2025-01,Metals & Mining,0.014299
+2025-02,Metals & Mining,0.006074
+2025-03,Metals & Mining,0.099639
+2025-04,Metals & Mining,-0.059515
+2025-05,Metals & Mining,0.039105
+2025-06,Metals & Mining,0.030378
+2025-07,Metals & Mining,-0.008563
+2025-08,Metals & Mining,0.005286
+2025-09,Metals & Mining,0.082396
+2025-10,Metals & Mining,0.062189
+2025-11,Metals & Mining,-0.042647
+2025-12,Metals & Mining,0.058844
+2026-01,Metals & Mining,0.077433
+2026-02,Metals & Mining,0.022461
+2026-03,Metals & Mining,-0.051189
+2026-04,Metals & Mining,0.118766
+2026-05,Metals & Mining,0.007849
+2026-06,Metals & Mining,-0.07791
+2026-07,Metals & Mining,0.007679
+2026-08,Metals & Mining,0.003785
+2026-09,Metals & Mining,-0.011213
+2026-10,Metals & Mining,-0.032259
+2021-10,Oil & Gas,-0.07126
+2021-11,Oil & Gas,-0.030179
+2021-12,Oil & Gas,-0.005894
+2022-01,Oil & Gas,0.106431
+2022-02,Oil & Gas,-0.034443
+2022-03,Oil & Gas,0.073464
+2022-04,Oil & Gas,0.019376
+2022-05,Oil & Gas,-0.054021
+2022-06,Oil & Gas,-0.004439
+2022-07,Oil & Gas,-0.073467
+2022-08,Oil & Gas,0.056752
+2022-09,Oil & Gas,-0.091343
+2022-10,Oil & Gas,0.06536
+2022-11,Oil & Gas,0.088737
+2022-12,Oil & Gas,-0.014666
+2023-01,Oil & Gas,-0.044334
+2023-02,Oil & Gas,0.031865
+2023-03,Oil & Gas,-0.000761
+2023-04,Oil & Gas,0.045909
+2023-05,Oil & Gas,-0.002126
+2023-06,Oil & Gas,0.033903
+2023-07,Oil & Gas,0.094814
+2023-08,Oil & Gas,-0.032947
+2023-09,Oil & Gas,0.036598
+2023-10,Oil & Gas,-0.026804
+2023-11,Oil & Gas,0.059185
+2023-12,Oil & Gas,0.069893
+2024-01,Oil & Gas,0.166685
+2024-02,Oil & Gas,0.045043
+2024-03,Oil & Gas,0.015982
+2024-04,Oil & Gas,0.021439
+2024-05,Oil & Gas,-0.044957
+2024-06,Oil & Gas,0.067988
+2024-07,Oil & Gas,0.084062
+2024-08,Oil & Gas,0.003042
+2024-09,Oil & Gas,-0.061108
+2024-10,Oil & Gas,-0.101154
+2024-11,Oil & Gas,-0.020451
+2024-12,Oil & Gas,-0.063457
+2025-01,Oil & Gas,0.069707
+2025-02,Oil & Gas,-0.088522
+2025-03,Oil & Gas,0.078784
+2025-04,Oil & Gas,0.046779
+2025-05,Oil & Gas,-0.004292
+2025-06,Oil & Gas,0.038454
+2025-07,Oil & Gas,-0.043359
+2025-08,Oil & Gas,-0.024677
+2025-09,Oil & Gas,0.017799
+2025-10,Oil & Gas,0.078466
+2025-11,Oil & Gas,0.014737
+2025-12,Oil & Gas,-0.00482
+2026-01,Oil & Gas,-0.001097
+2026-02,Oil & Gas,0.032513
+2026-03,Oil & Gas,-0.007412
+2026-04,Oil & Gas,0.059564
+2026-05,Oil & Gas,-0.094019
+2026-06,Oil & Gas,-0.065964
+2026-07,Oil & Gas,0.022443
+2026-08,Oil & Gas,-0.033516
+2026-09,Oil & Gas,-0.045812
+2026-10,Oil & Gas,0.001967
+2021-10,Pharma,-0.030699
+2021-11,Pharma,0.008224
+2021-12,Pharma,0.047236
+2022-01,Pharma,-0.04597
+2022-02,Pharma,-0.018303
+2022-03,Pharma,0.082013
+2022-04,Pharma,-0.019268
+2022-05,Pharma,-0.001733
+2022-06,Pharma,-0.034957
+2022-07,Pharma,0.044421
+2022-08,Pharma,0.017849
+2022-09,Pharma,0.052825
+2022-10,Pharma,0.047422
+2022-11,Pharma,0.00606
+2022-12,Pharma,-0.050839
+2023-01,Pharma,-0.000365
+2023-02,Pharma,-0.060016
+2023-03,Pharma,0.030638
+2023-04,Pharma,0.026342
+2023-05,Pharma,-0.017176
+2023-06,Pharma,0.096578
+2023-07,Pharma,0.120626
+2023-08,Pharma,0.012159
+2023-09,Pharma,-0.006359
+2023-10,Pharma,-0.029271
+2023-11,Pharma,0.071641
+2023-12,Pharma,0.019562
+2024-01,Pharma,0.089544
+2024-02,Pharma,0.088309
+2024-03,Pharma,-0.000976
+2024-04,Pharma,-0.043488
+2024-05,Pharma,-0.019761
+2024-06,Pharma,0.057014
+2024-07,Pharma,0.079118
+2024-08,Pharma,0.060968
+2024-09,Pharma,0.005418
+2024-10,Pharma,-0.051748
+2024-11,Pharma,-0.034482
+2024-12,Pharma,0.069073
+2025-01,Pharma,-0.076952
+2025-02,Pharma,-0.070386
+2025-03,Pharma,0.046205
+2025-04,Pharma,0.055789
+2025-05,Pharma,-0.028244
+2025-06,Pharma,0.021308
+2025-07,Pharma,0.017099
+2025-08,Pharma,-0.017584
+2025-09,Pharma,-0.027469
+2025-10,Pharma,0.012843
+2025-11,Pharma,0.051307
+2025-12,Pharma,-0.021496
+2026-01,Pharma,-0.078927
+2026-02,Pharma,0.057034
+2026-03,Pharma,-0.035506
+2026-04,Pharma,0.052903
+2026-05,Pharma,0.017194
+2026-06,Pharma,0.044437
+2026-07,Pharma,-0.027291
+2026-08,Pharma,-0.012994
+2026-09,Pharma,-0.021791
+2026-10,Pharma,-0.015669
+2021-10,Power & Energy,-0.102283
+2021-11,Power & Energy,0.036186
+2021-12,Power & Energy,0.001101
+2022-01,Power & Energy,0.098006
+2022-02,Power & Energy,-0.017092
+2022-03,Power & Energy,0.024525
+2022-04,Power & Energy,0.103415
+2022-05,Power & Energy,0.011825
+2022-06,Power & Energy,-0.086521
+2022-07,Power & Energy,0.040153
+2022-08,Power & Energy,0.088625
+2022-09,Power & Energy,-0.050646
+2022-10,Power & Energy,0.08017
+2022-11,Power & Energy,0.000542
+2022-12,Power & Energy,-0.039539
+2023-01,Power & Energy,0.021763
+2023-02,Power & Energy,0.036317
+2023-03,Power & Energy,0.021609
+2023-04,Power & Energy,0.016943
+2023-05,Power & Energy,-0.001612
+2023-06,Power & Energy,0.090144
+2023-07,Power & Energy,0.097651
+2023-08,Power & Energy,-0.019685
+2023-09,Power & Energy,0.102276
+2023-10,Power & Energy,-0.013909
+2023-11,Power & Energy,0.086079
+2023-12,Power & Energy,0.163225
+2024-01,Power & Energy,0.056731
+2024-02,Power & Energy,0.088886
+2024-03,Power & Energy,-0.0099
+2024-04,Power & Energy,0.086599
+2024-05,Power & Energy,0.007975
+2024-06,Power & Energy,0.061268
+2024-07,Power & Energy,0.076051
+2024-08,Power & Energy,-0.006962
+2024-09,Power & Energy,0.056037
+2024-10,Power & Energy,-0.081871
+2024-11,Power & Energy,-0.035502
+2024-12,Power & Energy,-0.072681
+2025-01,Power & Energy,-0.021069
+2025-02,Power & Energy,-0.100233
+2025-03,Power & Energy,0.153396
+2025-04,Power & Energy,0.02511
+2025-05,Power & Energy,-0.05763
+2025-06,Power & Energy,0.019142
+2025-07,Power & Energy,-0.015662
+2025-08,Power & Energy,-0.034892
+2025-09,Power & Energy,0.034104
+2025-10,Power & Energy,0.009004
+2025-11,Power & Energy,-0.035073
+2025-12,Power & Energy,-0.005028
+2026-01,Power & Energy,0.02391
+2026-02,Power & Energy,0.129093
+2026-03,Power & Energy,-0.018596
+2026-04,Power & Energy,0.076383
+2026-05,Power & Energy,-0.059189
+2026-06,Power & Energy,-0.04656
+2026-07,Power & Energy,-0.016617
+2026-08,Power & Energy,-0.062506
+2026-09,Power & Energy,-0.007018
+2026-10,Power & Energy,-0.031015
+2021-10,Telecom,0.006979
+2021-11,Telecom,0.062596
+2021-12,Telecom,-0.061037
+2022-01,Telecom,0.06654
+2022-02,Telecom,-0.058686
+2022-03,Telecom,0.099709
+2022-04,Telecom,-0.021127
+2022-05,Telecom,-0.052503
+2022-06,Telecom,-0.02178
+2022-07,Telecom,-0.01022
+2022-08,Telecom,0.076524
+2022-09,Telecom,0.100881
+2022-10,Telecom,0.04013
+2022-11,Telecom,0.020132
+2022-12,Telecom,-0.05025
+2023-01,Telecom,-0.044411
+2023-02,Telecom,-0.036415
+2023-03,Telecom,0.009094
+2023-04,Telecom,0.067156
+2023-05,Telecom,0.063305
+2023-06,Telecom,0.033945
+2023-07,Telecom,0.012688
+2023-08,Telecom,-0.033224
+2023-09,Telecom,0.081737
+2023-10,Telecom,-0.012953
+2023-11,Telecom,0.109689
+2023-12,Telecom,0.017246
+2024-01,Telecom,0.134179
+2024-02,Telecom,-0.040446
+2024-03,Telecom,0.093693
+2024-04,Telecom,0.076266
+2024-05,Telecom,0.038153
+2024-06,Telecom,0.051939
+2024-07,Telecom,0.032894
+2024-08,Telecom,0.071305
+2024-09,Telecom,0.075831
+2024-10,Telecom,-0.056711
+2024-11,Telecom,0.009023
+2024-12,Telecom,-0.024214
+2025-01,Telecom,0.02428
+2025-02,Telecom,-0.034495
+2025-03,Telecom,0.103936
+2025-04,Telecom,0.075632
+2025-05,Telecom,-0.004452
+2025-06,Telecom,0.082642
+2025-07,Telecom,-0.039459
+2025-08,Telecom,-0.013321
+2025-09,Telecom,-0.005506
+2025-10,Telecom,0.09375
+2025-11,Telecom,0.022925
+2025-12,Telecom,0.001903
+2026-01,Telecom,-0.065017
+2026-02,Telecom,-0.045411
+2026-03,Telecom,-0.051562
+2026-04,Telecom,0.058573
+2026-05,Telecom,-0.030634
+2026-06,Telecom,0.012575
+2026-07,Telecom,0.078196
+2026-08,Telecom,-0.081187
+2026-09,Telecom,-0.0303
+2026-10,Telecom,0.084234

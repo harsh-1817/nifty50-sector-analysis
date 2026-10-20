@@ -1,0 +1,18 @@
+dataset,check,rows_affected,action
+stocks,unparseable dates,0,dropped
+stocks,missing OHLC values,0,dropped
+stocks,non-positive prices,0,dropped
+stocks,high < low (inconsistent candle),0,dropped
+stocks,duplicate date/ticker rows,0,dropped (kept first)
+stocks,zero-volume rows,109,"kept, flagged only"
+stocks,manual adjustment TMPV.NS: Demerger of CV business (NSE reference price 400 vs prior close 660.75),987,prices before 2025-10-14 x 0.6054
+stocks,manual adjustment TRENT.NS: Yahoo feed level shift (~2/3) from 1 Jan 2026; cross-checked vs reported closes of 4417 and 4055,1041,prices before 2026-01-01 x 0.6667
+stocks,daily move > 25% (possible corporate action),2,"kept, flagged only"
+stocks,rows in -> rows out,61393,61393 rows loaded
+nifty50 index,unparseable dates,0,dropped
+nifty50 index,missing OHLC values,0,dropped
+nifty50 index,non-positive prices,0,dropped
+nifty50 index,high < low (inconsistent candle),0,dropped
+nifty50 index,duplicate date/ticker rows,0,dropped (kept first)
+nifty50 index,daily move > 25% (possible corporate action),0,"kept, flagged only"
+nifty50 index,rows in -> rows out,1236,1236 rows loaded

@@ -141,8 +141,12 @@ nifty50-sector-analysis/
 ## Possible extensions
 Market-cap weighted sector indices, sector-portfolio volatility, Fama-French style factor analysis, a Streamlit app, scheduled daily refresh with GitHub Actions.
 
+
 ## Author
-**Harsh Trivedi**
+
+**Harsh Trivedi**  
 *MBA (Computer Management) | Data Analytics & Financial Markets*
-Certifications: NISM Research Analyst (Series XV) · NISM Equity Derivatives (Series VIII)
+
+**Certifications:** NISM Research Analyst (Series XV) · NISM Equity Derivatives (Series VIII)
+
 <!-- TODO: [LinkedIn](https://linkedin.com/in/...) | [Portfolio](https://...) -->

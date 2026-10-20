@@ -145,7 +145,7 @@ Market-cap weighted sector indices, sector-portfolio volatility, Fama-French sty
 ## Author
 
 **Harsh Trivedi**  
-*MBA (Computer Management) | Data Analytics & Financial Markets*
+**MBA (Computer Management) | Data Analytics & Financial Markets**
 
 **Certifications:** NISM Research Analyst (Series XV) · NISM Equity Derivatives (Series VIII)
 
